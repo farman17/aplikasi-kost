@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'sheptian_sikos',
+	'hostname' => 'dbsosmedia.cjorhe5jzkni.us-east-2.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => 'farman17',
+	'database' => 'db_kos',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
